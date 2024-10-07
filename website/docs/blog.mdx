@@ -1,0 +1,109 @@
+---
+description: Deploy a full-featured blog in no time with Docusaurus.
+---
+
+# Blog
+
+Import map features from a file
+You can import map features like lines, shapes, and places to your map from KML files, spreadsheets and other files.
+
+Import map data to a layer
+Step 1: Prepare your info
+Import a file
+Make sure your info is one of these file types:
+
+CSV
+TSV
+KML
+KMZ
+GPX
+XLSX
+Google Sheet
+One or more photos in Google Drive or Google Photos
+Unzipped KML and KMZ files can be up to 5 MB.
+
+CSV files and Google Sheet files both support WKT geometry format.
+
+Other files can be up to 40 MB.
+
+Unless the file is a photo, the first row should have titles. To import data properly, make sure you have a column with one of the following:
+
+Latitude-longitude information
+Addresses
+Place names
+WKT-formatted vector geometry objects
+Do not import files with more than 2,000 rows. You can import up to 100 photos at a time.
+
+CSV or Google Sheets support WKT columns named “WKT.”
+
+Step 2: Import info into the map
+On your computer, sign in to My Maps.
+Open or create a map.
+In the map legend, click Add layer.
+Give the new layer a name.
+Under the new layer, click Import.
+Upload the file or photos that have your info. Then click Select.
+If you use WKT objects, click the checkbox for WKT to choose a column to position your placemark.
+Edit an existing layer
+You can use MyMaps to reimport your layers with Google Sheets and Comma Separated Values (CSVs). This is helpful if you want to keep the styles you’ve made to your data, and still make any updates. 
+
+There are a few different options on how to sync and merge layers with Google Sheets and CSVs.
+
+Replace all items
+You can delete all existing map data in a layer and replace it with map features from a file such as a Google Sheet or CSV file. For instance, you can update layer content with the latest weekly earthquake locations from a sheet and continue to style them by magnitude.
+
+In the layer, click the Overflow menu More.
+Select Reimport and merge and then Reimport and then Replace all items.
+Choose or upload the file containing the data, then click Select.
+Tip: If you previously styled map features by a data column, then your style rules will be copied to the replacement data.
+
+Update map data in a layer
+You can update existing map data in a layer to match the map features from a different file. For example, you can track people across the world as their location is updated in a sheet, without losing their custom icons, photos and videos.
+
+In the layer, click the Overflow menu More.
+Select Reimport and merge and then Reimport and then Update matching items.
+Choose or upload the file containing the data, then click Select.
+Select the column from “Layer data” and the corresponding column from “Uploaded data” to match the features.
+Click Finish.
+
+Tips:
+
+If you previously styled map features by a data column, then your style rules will be copied to the replacement data.
+Any map features in the original layer that don’t match the new file will be deleted.
+Any map features in the original layer that match the new file will be preserved including photos or custom styles. 
+Any new map features in the file will be added to your map.
+Add more items to an existing layer
+You can add new map data to an existing layer using a sheet or a CSV. This adds the map data to your existing layer.
+
+In the layer, click the Overflow menu More.
+Select Reimport and merge and then Add more items.
+Choose or upload the file containing the data, then click Select.
+Merge matching items
+You can also merge data sets based on a matching column in your sheet or CSV. For example, if 2 different files share a column, this column can be used to merge the 2 data sets on the map. You can join a “US states” and an “election result” data set together based on state codes.
+
+To import your first data set, in the layer, click Import.
+In the layer, click the Overflow menu More.
+Select Reimport and merge and then Merge matching items.
+Choose or upload the second file containing the matching column, then click Select.
+Select the column from “Layer data” and the corresponding column from “Uploaded data” to match the features.
+Click Finish.
+
+Learn about importing or modifying info problems
+If you can’t import your info correctly:
+
+Check if the file is in the correct format.
+Allow https://mymaps.google.com/ to open your Drive. Learn how to allow or block content settings for certain sites in Chrome.
+Make sure your column with WKT data is properly labeled as “WKT” only.
+KML files may not import all their data. The data includes:
+
+Info balloons with HTML or JavaScript
+KML tours
+Time-based elements
+Image and screen overlays
+MultiGeometries
+3D models
+Folders
+You may have trouble modifying your WKT column after you import it.
+
+WKT columns are geometries on import. They're no longer text-based.
+To edit them, you can use the standard geometry editing tools. You can’t edit them in the table editor the same way an address column can.

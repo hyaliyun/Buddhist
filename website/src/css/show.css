@@ -1,0 +1,307 @@
+/* 导入的"shared"样式在这里应该是另一个CSS文件，我们在这里不处理它 */
+
+:root {
+  --showcase-icon-background: rgba(0, 0, 0, 0.015);
+}
+
+html[data-theme="dark"] {
+  --showcase-icon-background: rgba(255, 255, 255, 0.015);
+}
+
+.plugin-pages .main-wrapper {
+  width: 100%;
+  max-width: 100%;
+}
+
+.sectionContainer {
+  max-width: 1360px;
+  padding: 0 20px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.headerContainer h1 {
+  margin: 16px 0 28px;
+  color: white;
+}
+
+.headerContainer h1 span {
+  color: #f0f0f0; /* 假设这是之前定义的一个变量 */
+}
+
+.headerContainer p {
+  color: #f0f0f0; /* 假设这是之前定义的一个变量 */
+  font-size: 19px;
+}
+
+.showcaseSection {
+  max-width: 1320px;
+  text-align: center;
+  margin: 8px auto 54px;
+  padding: 20px 16px 16px;
+  border: 1px solid #f0f0f0; /* 假设这是之前定义的一个变量 */
+  border-radius: 12px;
+}
+
+.showcaseSection.showcaseCustomers {
+  border: 0;
+  box-shadow: none;
+}
+
+.showcaseSection:first-child {
+  margin-top: 12px;
+}
+
+.showcaseSection:last-child {
+  margin-bottom: 0;
+}
+
+.showcaseSection h2 {
+  margin: 4px -20px 12px;
+  padding: 0 40px 0;
+  text-align: left;
+}
+
+.showcaseSection h2 img {
+  margin: 16px 0 8px;
+  height: 40px;
+}
+
+.showcaseSection h2.withLogo {
+  min-height: 60px;
+}
+
+.showcaseSection .showcaseSectionDescription {
+  text-align: left;
+  color: #f0f0f0; /* 假设这是之前定义的一个变量 */
+  padding: 0 20px;
+  margin-bottom: 8px;
+}
+
+.showcaseSection .showcase img {
+  height: 80px;
+  border-radius: 20px;
+}
+
+.showcaseSection .logos {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 28px;
+  margin: 20px 20px 16px;
+}
+
+.showcaseSection .logos .icon {
+  padding: 0;
+}
+
+.showcaseSection .showcase {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #f0f0f0;
+  transition: transform 0.25s ease-in-out;
+  overflow: hidden;
+  position: relative;
+}
+
+.showcaseSection .showcase h3 {
+  margin-bottom: 0;
+  line-height: 21px;
+  padding: 0 6px 4px;
+  font-size: 18px;
+  min-height: 2.75rem;
+  color: #f0f0f0; /* 假设这是之前定义的一个变量 */
+}
+
+.showcaseSection .showcase p {
+  margin: 8px 0 18px;
+  padding-top: 0 !important;
+  color: #f0f0f0; /* 假设这是之前定义的一个变量 */
+}
+
+
+.showcaseSection .showcase p a {
+
+  text-decoration: none;
+  color: blue; /* 示例颜色 */
+}
+
+.showcaseSection .showcase:hover .icon {
+  transform: scale3d(1.03, 1.03, 1);
+}
+
+.iconBox {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(#ffffff, transparent);
+  padding: 20px 20px 8px;
+  width: 100%;
+  overflow: visible;
+}
+
+.iconBackground {
+  filter: blur(28px);
+  position: absolute;
+  opacity: 0.1; /* Lighter opacity */
+  transform: scale(1.38);
+}
+
+.icon {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 1;
+  transition: transform 200ms ease-in-out;
+}
+
+.showcaseContent {
+  padding: 8px 16px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.showcaseLinks span {
+  color: #555; /* Dark gray for contrast */
+}
+
+.articleButton {
+  color: #007bff; /* Primary blue */
+  font-weight: 500;
+  font-size: 15px;
+  padding: 6px 12px;
+  margin: 0 -17px;
+  border-radius: 0;
+  border: 0;
+  border-top: 1px solid #d1d1d1; /* Light gray */
+
+  &:hover {
+    background: #f0f0f0; /* Light gray on hover */
+    color: #0056b3; /* Darker blue */
+  }
+}
+
+.footerContainer {
+  text-align: center;
+
+  p {
+    color: #858a96;
+
+    a {
+      color: #007bff; /* Primary blue */
+      background: none !important;
+
+      &:hover {
+        background: none !important;
+        color: #0056b3; /* Darker blue */
+      }
+    }
+  }
+
+  .formButton {
+    color: #ffffff; /* White */
+    border-color: #007bff; /* Primary blue */
+    margin-top: 20px;
+    margin-bottom: 36px;
+    border-width: 2px;
+    font-weight: 500;
+
+    &:hover {
+      color: #007bff; /* Primary blue */
+    }
+  }
+}
+
+html[data-theme="light"] .showcaseSection {
+  p a {
+    color: #007bff; /* Primary blue */
+  }
+
+  .articleButton {
+    color: #0056b3; /* Darker blue */
+  }
+
+  .formButton {
+    color: #343a40; /* Dark gray */
+  }
+
+  .iconBackground {
+    opacity: 0.1; /* Lighter opacity */
+  }
+}
+
+.home-showcase-section {
+  max-width: 800px;
+  margin: 20px auto;
+  text-align: center;
+  padding-bottom: 40px;
+
+  p {
+    max-width: 560px;
+    margin: 0 auto;
+  }
+}
+
+.pinned img {
+  width: 150px;
+  border-radius: 20px;
+}
+
+.footnote {
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.home-showcase-section {
+  h2 {
+    font-size: 31px;
+    line-height: 40px;
+    margin: 10px 0;
+  }
+
+  .showcase img {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+  }
+}
+
+.showcaseHeader {
+  padding-bottom: 15px;
+  padding-top: 15px;
+  text-align: center;
+}
+
+@media only screen and (min-width: 600px) {
+  .showcaseSection .logos {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .showcaseSection .logos {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media only screen and (min-width: 996px) {
+  .showcaseSection .logos {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media only screen and (min-width: 1320px) {
+  .showcaseSection .logos {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media only screen and (max-width: 1400px) {
+  .showcaseSection {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+
+   

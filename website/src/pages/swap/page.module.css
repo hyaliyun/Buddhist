@@ -1,0 +1,31 @@
+.body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  margin-top: 20px; /* 示例样式 */
+  padding: 20px;
+  border-radius: 8px;
+}
+
+
+h1 {
+  margin-bottom: 20px;
+  color: #333; /* 标题颜色 */
+  font-size: 2rem;
+}
+
+#integrated-terminal {
+  width: 100%;
+  max-width: 800px; /* 最大宽度 */
+  background-color: #ffffff; /* 终端背景颜色 */
+  border-radius: 10px; /* 圆角 */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+  padding: 20px; /* 内边距 */
+  transition: all 0.3s ease; /* 平滑过渡效果 */
+}
+
+#integrated-terminal:hover {
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15); /* 悬停时的阴影效果 */
+}

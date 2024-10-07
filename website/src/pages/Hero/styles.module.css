@@ -1,0 +1,160 @@
+/**
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+ .container {
+  height: 900px;
+}
+
+.backgroundContainer {
+  position: absolute;
+  z-index: -1;
+  overflow: hidden;
+  width: 100%;
+}
+
+.socialLinks {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+.gridBackground {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 600px;
+}
+
+.devices {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  top: -100px;
+  left: -20px;
+}
+
+.floorBackground {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 300px;
+  position: relative;
+  top: -4px;
+  background: linear-gradient(
+      to bottom,
+      #e0e0e0 0%,  /* Replace with your desired color */
+      #c0c0c0      /* Replace with your desired color */
+    ),
+    #c0c0c0;      /* Replace with your desired color */
+}
+
+.svgContent {
+  position: absolute;
+}
+
+.logo {
+  margin-bottom: 1rem;
+}
+
+.title {
+  font-size: 40px;
+  margin-bottom: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.subtitle {
+  font-weight: 500;
+  color: #001F3F; /* Replace with your desired color */
+  font-size: 28px;
+  margin-top: 1.5rem;
+  overflow-wrap: break-word; /* 与word-wrap相同，用于更好的兼容性 */
+  word-break: break-all; /* 在任意字符处换行，包括非空白字符 */
+  max-width: 600px; /* 设置容器的最大宽度，从而间接控制文字长度 */
+  display: block; /* 确保元素作为块级元素显示 */
+}
+
+.content {
+  position: relative;
+  top: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  z-index: 1;
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.primaryButton {
+  background-color: #3A6D8C;  /* Replace with your desired color */
+  color: #ffffff;  /* Replace with your desired text color */
+  border: none;
+  padding: 10px 24px;
+  border-radius: 99rem;
+  font-weight: bold;
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+}
+
+.primaryButton:hover {
+  color: #ffffff;  /* Replace with your desired text color */
+  background-color: #6A9AB0;  /* Replace with your hover color */
+}
+
+.secondaryButton {
+  border: none;
+  padding: 10px 24px;
+  border-radius: 99rem;
+  font-weight: bold;
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  color: #333;  /* Replace with your desired text color */
+  border: 1px solid #ddd;  /* Replace with your desired border color */
+  background-color: #f8f9fa;  /* Replace with your desired background color */
+}
+
+.secondaryButton:hover {
+  background-color: #e2e6ea;  /* Replace with your hover color */
+  color: #333;  /* Replace with your desired text color */
+}
+
+@media (max-width: 600px) {
+  .largeFormatDevices {
+    display: none;
+  }
+}
+
+@media (max-width: 450px) {
+  .content {
+    top: 50px;
+  }
+
+  .primaryButton,
+  .secondaryButton {
+    width: calc(100% - 2rem);
+  }
+}
+

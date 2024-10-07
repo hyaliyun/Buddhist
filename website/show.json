@@ -1,0 +1,458 @@
+{
+  "meta": [
+    {
+      "name": "BTC",
+      "icon": "facebook.png",
+      "linkAppStore": "https://btc.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/83XaC2jg2FqHMVjcUnHZmcgRL5MvgD45B9FxbK8evosk",
+      "infoLink": "https://bitcoin.org/",
+      "pinned": true
+    },
+    {
+      "name": "solana",
+      "icon": "adsmanager.png",
+      "linkAppStore": "http://sol.543x.com/",
+      "linkPlayStore": "https://accounts.binance.com/en/register?ref=11131007",
+      "infoLink": "https://solana.com/",
+      "pinned": true
+    },
+    {
+      "name": "USDC",
+      "icon": "metaquest.png",
+      "linkAppStore": "http://usdc.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/AizCbr94n73ykw7iefDbXc61AjQiQEULnTJs6m5Hdc6y",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fwww.circle.com%2F&sa=D&sntz=1&usg=AOvVaw2P9sewG490vcl0m0ho-5fi",
+      "pinned": true
+    },
+    {
+      "name": "BUSD",
+      "icon": "messengerdesktop.png",
+      "linkAppStore": "http://busd.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/2EzPinaN1FcDu7jB5YxFYERbhxMYiT3bYNiP3sL5jfdB",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fbtc.543x.com&sa=D&sntz=1&usg=AOvVaw3FCGqElIZty06WAW9K7l5Q",
+      "pinned": true
+    },
+    {
+      "name": "eth",
+      "icon": "eth.png",
+      "linkAppStore": "https://eth.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/2EzPinaN1FcDu7jB5YxFYERbhxMYiT3bYNiP3sL5jfdB",
+      "infoLink": "https://eth.543x.com",
+      "pinned": true
+    }
+  ],
+  "microsoft": [
+    {
+      "name": "FDUSD",
+      "icon": "officemobile.png",
+      "linkAppStore": "https://fdusd.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/JBdMRhuxAtMW754NceSMFPLnpPc2XAwgYZwXNUawSah5",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Ffirstdigitallabs.com&sa=D&sntz=1&usg=AOvVaw0vDB5EoGBOkC8kNPAvI1-o",
+      "pinned": true
+    },
+    {
+      "name": "PANDA",
+      "icon": "outlookmobile.png",
+      "linkAppStore": "http://panda.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/6xvVWCy9KtkA7DnVtVUJqmMorrYxUS3VUcUYAzM59gXe",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fpanda.543x.com&sa=D&sntz=1&usg=AOvVaw2EZruZN91qHn1Qpf_gExHT",
+      "pinned": true
+    },
+    {
+      "name": "SATOSHI",
+      "icon": "teamsmobile.png",
+      "linkAppStore": "http://satoshi.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/5TMTjmESoG6Hqbwrv9AeweoFyCet8Min2G48oQbhbTp6",
+      "infoLink": "http://www.google.com/url?q=http%3A%2F%2Fsatoshi.543x.com&sa=D&sntz=1&usg=AOvVaw1j2jvClK0aM_aT2ZmhS8bl",
+      "pinned": true
+    },
+    {
+      "name": "TON",
+      "icon": "xboxgamepass.png",
+      "linkAppStore": "http://ton.543x.com/",
+      "linkPlayStore": "https://accounts.binance.com/en/register?ref=11131007",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fton.org%2F&sa=D&sntz=1&usg=AOvVaw2_75Qk4X6VUQE5Qft8F1TN",
+      "pinned": true
+    },
+    {
+      "name": "USDT",
+      "icon": "skype.png",
+      "linkAppStore": "https://usdt.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/BSo8Z58sYiAnmTkEX5XFQLPxGERD3pgDKdVQtHneSbkJ",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Ftether.to%2F&sa=D&sntz=1&usg=AOvVaw3X9MUZ0-up4WbwMjretSe5",
+      "pinned": true
+    }
+  ],
+  "amazon": [
+    {
+      "name": "SHIB",
+      "icon": "amazon-shopping.png",
+      "linkAppStore": "http://shib.543x.com/",
+      "linkPlayStore": "https://accounts.binance.com/en/register?ref=11131007",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fshibatoken.com&sa=D&sntz=1&usg=AOvVaw29hYxJeXEAS0xzMVTh9JGI",
+      "pinned": true
+    },
+    {
+      "name": "NO",
+      "icon": "amazon-alexa.webp",
+      "linkAppStore": "http://no.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/Bz1kKXV74cznsVJSu4cPcdrD2ZbCv6raez9Bq5Edmtgw",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fno.543x.com&sa=D&sntz=1&usg=AOvVaw2_Z8ZU5sO107b-HGtko9OW",
+      "pinned": true
+    },
+    {
+      "name": "CLOWN",
+      "icon": "amazon-photos.png",
+      "linkAppStore": "http://clown.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/5m7P7Ye2wHatH6TmFbzyNoaYvdPcnDTfzuZZPU9drbxW ",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fclown.543x.com&sa=D&sntz=1&usg=AOvVaw3ZemDPdG3C5IiPl6wzehlZ",
+      "pinned": true
+    },
+    {
+      "name": "BNB",
+      "icon": "amazon-kindle.png",
+      "linkAppStore": "https://bnb.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/7CdHDxxdEFEM8MEHaEPNfzL18D8w35AkArWrd9SH7bC2 ",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fwww.bnbchain.org%2F&sa=D&sntz=1&usg=AOvVaw1eSaBpgBhcCNgXm15Vvid3",
+      "pinned": true
+    },
+    {
+      "name": "SATS",
+      "icon": "amazon-appstore.png",
+      "linkAppStore": "http://sats.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/83XaC2jg2FqHMVjcUnHZmcgRL5MvgD45B9FxbK8evosk ",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fsatscoin.vip&sa=D&sntz=1&usg=AOvVaw1tks-PwlGu-rOJSI8lIatH",
+      "pinned": true
+    }
+  ],
+  "shopify": [
+    {
+      "name": "DOG•GO•TO",
+      "icon": "shopify.png",
+      "linkAppStore": "http://dog.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/83XaC2jg2FqHMVjcUnHZmcgRL5MvgD45B9FxbK8evosk ",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fdoggotothemoon.io%2F&sa=D&sntz=1&usg=AOvVaw07D4wJq16nudalbEIpxYz3",
+      "pinned": true
+    },
+    {
+      "name": "JUMP",
+      "icon": "shop.png",
+      "linkAppStore": "http://jump.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/9JqQPaU6azN6yRjrRg3MSka4tLeMEKpZ2pe5D3CLnoc ",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fjump.543x.com&sa=D&sntz=1&usg=AOvVaw1igPeSVc56B1iTYdElXOWc",
+      "pinned": true
+    },
+    {
+      "name": "A",
+      "icon": "shopify-inbox.png",
+      "linkAppStore": "https://a.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/8NzwPPEQJFkjRqeBd1jpy3efnvYmgyCk18bqujqiqa4k",
+      "infoLink": "http://www.google.com/url?q=http%3A%2F%2Fa.543x.com&sa=D&sntz=1&usg=AOvVaw2hIYxvbIcqbzmg47wZzi20",
+      "pinned": true
+    },
+    {
+      "name": "MIQI",
+      "icon": "pos.png",
+      "linkAppStore": "https://miqi.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/7gZYm4VQd4hTNgA9Eapdq37XLcuGjHYAq6CQ6NM2SXUu ",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Fmiqi.543x.com&sa=D&sntz=1&usg=AOvVaw3BRQA2MvqRp49FqaQre4Lp",
+      "pinned": true
+    },
+    {
+      "name": "x",
+      "icon": "x.png",
+      "linkAppStore": "https://x.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/2onAYHGyxUV4JuYeUQbFwbKmKUXyTA9v5aKiGx2TesR7",
+      "infoLink": "http://www.google.com/url?q=http%3A%2F%2Fa.543x.com&sa=D&sntz=1&usg=AOvVaw2hIYxvbIcqbzmg47wZzi20",
+      "pinned": true
+    }
+  ],
+  "wix": [
+    {
+      "name": "SHEEP",
+      "icon": "spaces.png",
+      "linkAppStore": "https://sheep.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/GYJkxTb1WLQELBFCXgLxPACuKA1Abd3bJFPKrEPsG5m9 ",
+      "infoLink": "http://www.google.com/url?q=http%3A%2F%2Fsheep.543x.com&sa=D&sntz=1&usg=AOvVaw0dOkGP8gQB79Mnq01LGkls",
+      "pinned": true
+    },
+    {
+      "name": "PEACE",
+      "icon": "dine.png",
+      "linkAppStore": "https://peace.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/6YwbhVxL5DBArRaC2rSsS738wjdzTzEzPSZDwRnRSnHX ",
+      "infoLink": "http://www.google.com/url?q=http%3A%2F%2Fpeace.543x.com&sa=D&sntz=1&usg=AOvVaw01LgGkvRp3mtRv6G95BsMa",
+      "pinned": true
+    },
+    {
+      "name": "XRP",
+      "icon": "fit.png",
+      "linkAppStore": "https://xrp.543x.com/",
+      "linkPlayStore": "https://accounts.binance.com/en/register?ref=11131007 ",
+      "infoLink": "https://xrpl.org",
+      "pinned": true
+    },
+    {
+      "name": "RATS",
+      "icon": "owner.png",
+      "linkAppStore": "http://rats.543x.com/",
+      "linkPlayStore": "https://accounts.binance.com/en/register?ref=11131007",
+      "infoLink": "https://www.google.com/url?q=https%3A%2F%2Frats.543x.com&sa=D&sntz=1&usg=AOvVaw0KKtV9QSeJVjMVAq_6q1EA",
+      "pinned": true
+    },
+    {
+      "name": "cow",
+      "icon": "cow.png",
+      "linkAppStore": "https://cow.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/GHNBzjJe12m37Jj9JV4Jz6cunA34oCbXcgudCocPMJ4H",
+      "infoLink": "https://cow.543x.com/",
+      "pinned": true
+    }
+  ],
+  "others": [
+    {
+      "name": "Coinbase",
+      "icon": "coinbase.png",
+      "linkAppStore": "http://www.543x.com/",
+      "linkPlayStore": "http://www.543x.com/",
+      "infoLink": "http://www.543x.com/",
+      "infoTitle": "Onboarding thousands of users with React Native",
+      "pinned": true
+    },
+    {
+      "name": "DOGE",
+      "icon": "puma.png",
+      "linkAppStore": "http://doge.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/vVTYpKUvcZHr5EJJKRefamq7u8W8eDjz7gqERAvga3R",
+      "infoLink": "https://dogecoin.com/",
+      "pinned": true
+    },
+    {
+      "name": "GF",
+      "icon": "playstation.png",
+      "linkAppStore": "http://gf.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/5zz1MnzBxhozPoGDGysdu4CeeMEVeJ1cay8gpgw6Motb",
+      "infoLink": "http://gf.543x.com",
+      "pinned": true
+    },
+    {
+      "name": "YAYA",
+      "icon": "openvpn.png",
+      "linkAppStore": "https://yaya.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/Di9aeHFYeczWysnQsbNpxFgqTzJYyU9pKCovSdrhFXHQ",
+      "infoLink": "https://yaya.543x.com",
+      "pinned": true
+    },
+    {
+      "name": "CAT",
+      "icon": "wordpress.png",
+      "linkAppStore": "http://cat.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/9oRdiNMEPegLEmczr55zhTygRymQn44D7Ry5Cduj4VXv",
+      "infoLink": "http://cat.543x.com",
+      "infoTitle": "Learn more",
+      "pinned": true
+    },
+    {
+      "name": "AVAX",
+      "icon": "dave.png",
+      "linkAppStore": "http://cat.543x.com",
+      "linkPlayStore": "https://accounts.binance.com/en/register?ref=11131007",
+      "infoLink": "https://www.avax.network/",
+      "pinned": true
+    },
+    {
+      "name": "ORD'",
+      "icon": "tableau.png",
+      "linkAppStore": "http://ord.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/6u1nMUVkTVmSvvdjvVTJUPKP7ZoFLrbah3YtFnTa9YoA",
+      "infoLink": "http://ord.543x.com/",
+      "infoTitle": "React Native at Tableau 3 Years in",
+      "pinned": true
+    },
+    {
+      "name": "QQ",
+      "icon": "flipkart.png",
+      "linkAppStore": "http://qq.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/83fGy9Fgm83CA44DU8NmhLfF2Bjq8v6dqsLcQN6NRDwm",
+      "infoLink": "http://qq.543x.com",
+      "infoTitle": "The Journey of React Native @ FlipKart",
+      "pinned": true
+    },
+    {
+      "name": "yy",
+      "icon": "mercari.png",
+      "linkAppStore": "http://yy.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/HGxSXTJhw1vGYhhCjjqSdBbwmG4cgFpJwjXK578Qz3Ms",
+      "infoLink": "http://yy.543x.com",
+      "infoTitle": "Why we decided to rewrite our iOS & Android apps from scratch — in React Native",
+      "pinned": true
+    },
+    {
+      "name": "ADA",
+      "icon": "nerdwallet.png",
+      "linkAppStore": "http://ada.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/HGxSXTJhw1vGYhhCjjqSdBbwmG4cgFpJwjXK578Qz3Ms",
+      "infoLink": "http://ada.543x.com",
+      "infoTitle": "Beyond the Browser: How NerdWallet Went Native"
+    },
+    {
+      "name": "DONALD",
+      "icon": "discord.png",
+      "linkAppStore": "https://donald.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/6Ed7Gy1aKNrvSr7srCJWowaLSEjCySmeRWK2iacEPCmw",
+      "infoLink": "https://donald.543x.com",
+      "infoTitle": "How Discord achieves native iOS performance with React Native",
+      "pinned": true
+    },
+    {
+      "name": "MIMI",
+      "icon": "bloomberg.png",
+      "linkAppStore": "https://mimi.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/6Ed7Gy1aKNrvSr7srCJWowaLSEjCySmeRWK2iacEPCmw",
+      "infoLink": "https://mimi.543x.com",
+      "infoTitle": "How Bloomberg Used React Native to Develop its new Consumer App",
+      "pinned": true
+    },
+    {
+      "name": "RABBIT",
+      "icon": "pinterest.png",
+      "linkAppStore": "https://rabbit.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/FbrPuX8tinmx2yxwxmYGZfZQbkS8FL9gG1dzQiWMamER",
+      "infoLink": "https://rabbit.543x.com/",
+      "infoTitle": "Supporting React Native at Pinterest",
+      "pinned": true
+    },
+    {
+      "name": "SNAKE",
+      "icon": "tesla.png",
+      "linkAppStore": "https://snake.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/6YwbhVxL5DBArRaC2rSsS738wjdzTzEzPSZDwRnRSnHX",
+      "infoLink": "https://snake.543x.com",
+      "infoTitle": "Tesla Blog",
+      "pinned": true
+    },
+    {
+      "name": "RAT",
+      "icon": "walmart.png",
+      "linkAppStore": "https://rat.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/AEgbTbDjXX6PYgQ6DdxCmF185hSwECueVyyFg2HsXNdo",
+      "infoLink": " https://rat.543x.com/",
+      "infoTitle": "React Native at Walmart Labs",
+      "pinned": true
+    },
+    {
+      "name": "dragon",
+      "icon": "words2.png",
+      "linkAppStore": "https://dragon.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/95TETWfUrkUnM6sCSizsQTDJ2tHXBXRZA6mEnjGfpgCb",
+      "infoLink": "https://dragon.543x.com/",
+      "infoTitle": "Why & How Words With Friends Is Adopting React Native"
+    },
+    {
+      "name": "SEAL",
+      "icon": "callofduty_companion.png",
+      "linkAppStore": "https://seal.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/GbCVRoqC57eKEdgWo3oBkgtX64Ru7d7Evow5oxNKDWdW",
+      "infoLink": "https://seal.543x.com/",
+      "infoTitle": ""
+    },
+    {
+      "name": "TRON",
+      "icon": "foreca.png",
+      "linkAppStore": "https://seal.543x.com/",
+      "linkPlayStore": "https://app.meteora.ag/pools/GbCVRoqC57eKEdgWo3oBkgtX64Ru7d7Evow5oxNKDWdW",
+      "infoLink": "https://tron.network",
+      "infoTitle": "How to make a global weather app serving both iOS and Android users"
+    },
+    {
+      "name": "OTTER",
+      "icon": "lendmn.png",
+      "linkAppStore": "https://otter.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/9XeEoYSMyG5tWpNKMBKivsbbjfjrPj2rFBQUEut3vDVu",
+      "infoLink": "https://otter.543x.com",
+      "infoTitle": "Providing financial access to the underbanked through React Native"
+    },
+    {
+      "name": "pepe",
+      "icon": "artsy.png",
+      "linkAppStore": "https://pepe.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/eZ4L3WKdaCHWbocvuA5QhMvR3AwdmhpNfPW9ynHJGx6",
+      "infoLink": "https://pepe.543x.com",
+      "infoTitle": "Artsy App (Eigen) on GitHub"
+    },
+    {
+      "name": " monkey",
+      "icon": "baidu.png",
+      "linkPlayStore": "https://monkey.543x.com",
+      "linkAppStore": "https://app.meteora.ag/pools/6JZ53cKczUmwAqz8F59TZ7ur84AjAgLFWqWNauhsdhFY",
+      "infoLink": "https://monkey.543x.com",
+      "infoTitle": "Baidu Mobile is a search engine used by over 600 million people in China"
+    },
+    {
+      "name": "Delivery.com",
+      "icon": "delivery.png",
+      "linkAppStore": "https://apps.apple.com/us/app/delivery-com-food-alcohol/id435168129",
+      "linkPlayStore": "https://play.google.com/store/apps/details?id=com.deliverycom",
+      "infoLink": "https://medium.com/delivery-com-engineering/react-native-in-an-existing-ios-app-delivered-874ba95a3c52#.37qruw6ck",
+      "infoTitle": "React Native in an Existing iOS App: Getting Started"
+    },
+    {
+      "name": "Gyroscope",
+      "icon": "gyroscope.png",
+      "linkAppStore": "https://itunes.apple.com/app/apple-store/id1104085053?pt=117927205&ct=website&mt=8",
+      "linkPlayStore": "https://play.google.com/store/apps/details?id=com.gyroscope.gyroscope",
+      "infoLink": "https://blog.gyrosco.pe/building-the-app-1dac1a97d253",
+      "infoTitle": "Building a visualization experience with React Native"
+    },
+    {
+      "name": "Chicken",
+      "icon": "Chicken.png",
+      "linkAppStore": "https://ord.543x.com",
+      "linkPlayStore": "https://app.meteora.ag/pools/6u1nMUVkTVmSvvdjvVTJUPKP7ZoFLrbah3YtFnTa9YoA",
+      "infoLink": "https://ord.543x.com",
+      "infoTitle": "JD.com is China’s largest ecommerce company by revenue and a member of the Fortune Global 500."
+    },
+    {
+      "name": "Tencent QQ",
+      "icon": "qq.webp",
+      "linkPlayStore": "https://play.google.com/store/apps/details?id=com.tencent.mobileqq&hl=en&gl=US",
+      "infoLink": "https://www.tencent.com/en-us/business.html",
+      "infoTitle": "QQ is China's largest messaging platform, with over 829 million active accounts",
+      "pinned": true
+    },
+    {
+      "name": "Bolt Food: Delivery & Takeaway",
+      "icon": "bolt.png",
+      "linkAppStore": "https://apps.apple.com/us/app/bolt-food/id1451492388",
+      "linkPlayStore": "https://play.google.com/store/apps/details?id=com.bolt.deliveryclient",
+      "infoLink": "https://medium.com/bolt-labs/how-we-built-a-react-native-app-in-2-months-aeadf210a764"
+    },
+    {
+      "name": "Mattermost",
+      "icon": "mattermost.webp",
+      "linkAppStore": "https://apps.apple.com/us/app/mattermost/id1257222717",
+      "linkPlayStore": "https://play.google.com/store/apps/details?id=com.mattermost.rn",
+      "infoLink": "https://github.com/mattermost/mattermost-mobile",
+      "pinned": true
+    },
+    {
+      "name": "Klarna | Shop now. Pay later.",
+      "icon": "klarna.jpg",
+      "linkAppStore": "https://apps.apple.com/us/app/klarna-shop-now-pay-later/id1115120118",
+      "linkPlayStore": "https://play.google.com/store/apps/details?id=com.myklarnamobile"
+    },
+    {
+      "name": "NFL",
+      "icon": "nfl.webp",
+      "linkAppStore": "https://apps.apple.com/us/app/nfl/id389781154",
+      "linkPlayStore": "https://play.google.com/store/apps/details?id=com.gotv.nflgamecenter.us.lite&hl=en_US",
+      "pinned": true
+    },
+    {
+      "name": "Brex: The future of spend management",
+      "icon": "brex.png",
+      "linkAppStore": "https://apps.apple.com/us/app/brex/id1472905508",
+      "linkPlayStore": "https://play.google.com/store/apps/details?id=com.brex.mobile&hl=en_US&gl=US"
+    }
+  ]
+}
